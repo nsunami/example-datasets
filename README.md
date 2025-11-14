@@ -51,13 +51,13 @@ Here's a simplified example metadata file:
   "author": {
     "@type": "Person",
     "givenName": "John",
-    "familyName: "Doe",
+    "familyName": "Doe",
     "id": "0000-0002-1825-0097" // this is an ORCID ID, e.g.
   },
   "sdPublisher": {
     "@type": "Person",
     "givenName": "Jane",
-    "familyName: "Doe",
+    "familyName": "Doe",
     "id": "0000-0002-3245-1127" // this is an ORCID ID, e.g.
   },
   "variableMeasured": [
